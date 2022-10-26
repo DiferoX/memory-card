@@ -1,0 +1,67 @@
+.cardContent
+{
+  height: 20vh;
+  width: 15vh;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 5%;
+  margin: 1vh;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px #000,
+              inset 2px 2px 5px black,
+              inset -5px -5px 10px black;
+  transition: 1s;
+  cursor: pointer;
+  z-index: 5;
+}
+
+.cardContent:hover
+{
+  background-color: rgba(125, 125, 125, 0.5);
+  box-shadow: 10px 10px 20px #000,
+              inset 2px 2px 5px black,
+              inset -5px -5px 10px black;
+  transition: 1s;
+  z-index: 5;
+}
+
+.cardContent.hide
+{
+  transform: rotateY(180deg);
+  transition: 1s;
+}
+
+.cardContent.hide button
+{
+  opacity: 0;
+  transition: 0.5s;
+}
+
+.cardContent button
+{
+  opacity: 1;
+  display: grid;
+  grid-template-rows: 80% 20%;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+  background-color: transparent;
+  border: none;
+  transition: 2s;
+}
+
+.cardContent img
+{
+  height: 100%;
+  width: 100%;
+  cursor: pointer;
+}
+
+.cardContent p
+{
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  text-shadow: 1px 1px 2px #000;
+  cursor: pointer;
+}
