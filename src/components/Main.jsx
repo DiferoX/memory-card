@@ -6,7 +6,6 @@ function Main(props)
 {
   const [characters, setCharacters] = useState(props.characters);
   const [counter, setCounter] = useState(0);
-  // const [levelUp, setLevelUp] = useState(0);
 
   const sortCards = () =>
   {
@@ -56,7 +55,6 @@ function Main(props)
       console.log("Level Up");
       setCharacters(props.handleArray(characters.length + 5));
     }
-    // console.log(levelUp);
   }
 
   const handleGame = (character) =>
@@ -66,22 +64,16 @@ function Main(props)
       console.log("Game Over");
       setCharacters(props.handleArray(5));
       setCounter(0);
-      // props.counterScore.current = 0;
-      console.log(counter);
     }
     else
     {
       character.hit = true;
       setCounter(counter + 1);
-      // props.counterScore.current = counter;
-      console.log(counter);
       sortCards();
     }
-    
+    props.objectData.currentScore = counter;
+    console.log(counter);
     validateGame();
-    
-    // props.handleLevelUp(counter);
-    // console.log(character)
   }
 
   return (

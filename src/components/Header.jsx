@@ -5,9 +5,9 @@ function Header(props)
 {
   return (
     <header className="App-header">
-      <p>Best Score <strong>{props.counterScore}</strong></p>
+      <p>Best Score <strong>{props.objectData.bestScore}</strong></p>
       <img src={logo} className="App-logo" alt="logo" />
-      <p><strong>{props.counterScore}</strong> Current Score</p>
+      <p><strong>{props.objectData.currentScore}</strong> Current Score</p>
     </header>
   );
 }
