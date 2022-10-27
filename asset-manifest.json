@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.bb10432a.css",
+    "main.js": "/memory-card/static/js/main.e67a8db1.js",
+    "static/media/Ganondorf.png": "/memory-card/static/media/Ganondorf.2af982c2fb46cd22aabc.png",
+    "static/media/Background.png": "/memory-card/static/media/Background.5c12b9c33292525a42c8.png",
+    "static/media/Ridley.png": "/memory-card/static/media/Ridley.5e586dc60463ac73025a.png",
+    "static/media/Cloud.png": "/memory-card/static/media/Cloud.3b145852bf798235608f.png",
+    "static/media/Roy.png": "/memory-card/static/media/Roy.01792e131a0e552366fb.png",
+    "static/media/Link.png": "/memory-card/static/media/Link.9aa073ff91d510a456b7.png",
+    "static/media/Joker.png": "/memory-card/static/media/Joker.c81d36a4bd47cce32726.png",
+    "static/media/Sephiroth.png": "/memory-card/static/media/Sephiroth.e5a8590c87e489c3a1dc.png",
+    "static/media/Pac Man.png": "/memory-card/static/media/Pac Man.4d60f0a1b41537238908.png",
+    "static/media/Shulk.png": "/memory-card/static/media/Shulk.b1d2f9234078d5547dc2.png",
+    "static/media/Luigi.png": "/memory-card/static/media/Luigi.a9fb2e22a296ab58618a.png",
+    "static/media/Banjo & Kazooie.png": "/memory-card/static/media/Banjo & Kazooie.bac8278a127338539490.png",
+    "static/media/Captain Falcon.png": "/memory-card/static/media/Captain Falcon.4fa2c2fffec93b95a20f.png",
+    "static/media/Incineroar.png": "/memory-card/static/media/Incineroar.ddbeee567d38c3a47b11.png",
+    "static/media/Simon Belmont.png": "/memory-card/static/media/Simon Belmont.565890c27700e144be49.png",
+    "static/media/Terry.png": "/memory-card/static/media/Terry.a4db361a64223345315b.png",
+    "static/media/Mario.png": "/memory-card/static/media/Mario.7b1e632b11f2fb04c192.png",
+    "static/media/Bowser.png": "/memory-card/static/media/Bowser.5c974ef271891effeae0.png",
+    "static/media/Piranha Plant.png": "/memory-card/static/media/Piranha Plant.e618d20b34d5fbfe5554.png",
+    "static/media/Inklings.png": "/memory-card/static/media/Inklings.7ef6ce51753bc1829c3c.png",
+    "static/media/Yoshi.png": "/memory-card/static/media/Yoshi.8c484cb2aec2f9a385a4.png",
+    "static/media/Falco.png": "/memory-card/static/media/Falco.6dcfaa12a4269ba4539e.png",
+    "static/media/Toon Link.png": "/memory-card/static/media/Toon Link.a9c1c8e4a9fbc6a09e65.png",
+    "static/media/Young Link.png": "/memory-card/static/media/Young Link.942d8d99b900b823990b.png",
+    "static/media/Wolf.png": "/memory-card/static/media/Wolf.4b02e69ec4d543e4b21c.png",
+    "static/media/Mr. Game and Watch.png": "/memory-card/static/media/Mr. Game and Watch.cc831d71f812611a33c7.png",
+    "static/media/Pikachu.png": "/memory-card/static/media/Pikachu.2b4a93a448b51b999a4e.png",
+    "static/media/Lucina.png": "/memory-card/static/media/Lucina.35a03706d4010a98095b.png",
+    "static/media/Logo.png": "/memory-card/static/media/Logo.16bf6286b3a7b7c2a5a5.png",
+    "index.html": "/memory-card/index.html",
+    "main.bb10432a.css.map": "/memory-card/static/css/main.bb10432a.css.map",
+    "main.e67a8db1.js.map": "/memory-card/static/js/main.e67a8db1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb10432a.css",
+    "static/js/main.e67a8db1.js"
+  ]
+}
